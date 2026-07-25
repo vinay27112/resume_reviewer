@@ -1,0 +1,53 @@
+SARAH CHEN
+San Francisco, CA | sarah.chen@email.com | (415) 555-0123 | LinkedIn.com/in/sarahchen | GitHub.com/sarahchen
+
+PROFESSIONAL SUMMARY
+Full-stack software engineer with 4 years of experience building scalable web applications using modern JavaScript frameworks. Proficient in React, Node.js, and cloud technologies. Proven track record of delivering high-quality features and collaborating with cross-functional teams. Strong problem-solving skills with a focus on performance optimization and user experience.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, SQL, HTML/CSS
+Frontend: React, Vue.js, Redux, Next.js, Tailwind CSS, Material-UI
+Backend: Node.js, Express.js, FastAPI, Flask
+Databases: PostgreSQL, MongoDB, Firebase
+Tools & Platforms: Git, Docker, AWS (EC2, S3, Lambda), Google Cloud, Vercel, GitHub Actions
+Other: REST APIs, GraphQL, Agile/Scrum, Jest, Webpack
+
+PROFESSIONAL EXPERIENCE
+
+Senior Frontend Engineer | TechVision Solutions, San Francisco, CA | Jun 2022 - Present
+• Led development of a customer analytics dashboard using React and TypeScript, handling 50k+ daily active users
+• Implemented real-time data visualization features using D3.js, improving dashboard performance by 40%
+• Mentored 2 junior developers and conducted code reviews following best practices
+• Reduced bundle size by 35% through code splitting and lazy loading optimization
+• Collaborated with product and design teams to deliver 5+ major features on schedule
+
+Full-Stack Engineer | CloudData Inc., Palo Alto, CA | Jan 2021 - May 2022
+• Developed and maintained 15+ REST APIs using Express.js and PostgreSQL serving 100k+ requests daily
+• Built responsive React components with Redux state management for complex data workflows
+• Implemented OAuth 2.0 authentication and authorization systems
+• Optimized database queries reducing API response time by 50%
+• Deployed applications on AWS and set up CI/CD pipelines using GitHub Actions
+
+Junior Developer | StartupHub, San Francisco, CA | Jun 2019 - Dec 2020
+• Developed features for a social networking platform using React and Node.js
+• Fixed 200+ bugs reported in production systems
+• Participated in code reviews and contributed to technical documentation
+• Gained experience with database design and performance tuning
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley, CA | Graduated: May 2019
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate (2022)
+• Google Cloud Professional Data Engineer (2021)
+
+PROJECTS & ACHIEVEMENTS
+• Open Source Contributor: Contributed to React ecosystem projects with 500+ GitHub stars
+• Personal Project - Task Management App: Built full-stack productivity app with 5k+ users, hosted on Vercel
+• Hackathon Winner: Won 1st place in SF Tech Hackathon 2021 for AI-powered recommendation system
+
+ADDITIONAL INFORMATION
+Languages: English (Native), Mandarin Chinese (Fluent), Spanish (Conversational)

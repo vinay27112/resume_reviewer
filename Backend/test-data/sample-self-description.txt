@@ -1,0 +1,11 @@
+I am a passionate and driven full-stack software engineer with a strong background in building web applications from concept to production. Throughout my career, I've developed a solid foundation in both frontend and backend technologies, with a special focus on React and Node.js ecosystems.
+
+My journey in tech started with a curiosity about how things work, which led me to pursue a degree in Computer Science. During my studies and professional experience, I've cultivated a deep appreciation for clean code, performance optimization, and collaborative teamwork.
+
+What sets me apart is my ability to understand complex requirements and translate them into elegant technical solutions. I take pride in my problem-solving skills and my ability to work across the entire stack. I'm not just a developer who writes code; I'm someone who cares about the end-user experience and the maintainability of the systems I build.
+
+I'm particularly interested in cloud technologies and have hands-on experience with AWS and Google Cloud. I enjoy mentoring junior developers and sharing knowledge with my team. I'm always learning new technologies and frameworks to stay current with industry trends.
+
+In my spare time, I contribute to open-source projects and work on personal projects to challenge myself and expand my skillset. I also believe in continuous self-improvement and regularly take courses to strengthen my technical and soft skills.
+
+My goal is to work on impactful projects where I can grow as an engineer while contributing significantly to the team's success.

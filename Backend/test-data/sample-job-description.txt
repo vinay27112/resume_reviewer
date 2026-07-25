@@ -1,0 +1,47 @@
+Job Title: Senior Full-Stack Engineer
+Company: InnovateTech Solutions
+Location: San Francisco, CA (Hybrid)
+Salary Range: $150,000 - $200,000 + Equity
+
+About the Role:
+We're looking for an experienced Full-Stack Engineer to join our growing engineering team. You'll be responsible for designing and implementing scalable web applications that serve millions of users. This is a high-impact role where you'll work on both frontend and backend systems, collaborating with product managers, designers, and fellow engineers to ship features that matter.
+
+Key Responsibilities:
+• Design and develop high-performance web applications using React and Node.js
+• Build and maintain RESTful APIs and microservices handling millions of requests
+• Optimize application performance and ensure scalability across all layers
+• Participate in architectural decisions and code reviews
+• Collaborate with product and design teams to deliver user-centric solutions
+• Mentor junior developers and help establish best practices
+• Contribute to documentation and knowledge sharing within the team
+
+Required Skills & Experience:
+• 4+ years of professional software development experience
+• Strong expertise in React, JavaScript/TypeScript, and modern CSS
+• Proficiency in backend development with Node.js, Express.js, or similar frameworks
+• Experience with relational and NoSQL databases (PostgreSQL, MongoDB)
+• Solid understanding of REST APIs, authentication, and security best practices
+• Experience with version control (Git) and modern development workflows
+• Strong problem-solving abilities and attention to detail
+• Excellent communication and teamwork skills
+
+Preferred Qualifications:
+• Experience with cloud platforms (AWS, Google Cloud, or Azure)
+• Familiarity with containerization (Docker) and orchestration
+• Experience with GraphQL
+• Knowledge of DevOps practices and CI/CD pipelines
+• Contributions to open-source projects
+• Experience with machine learning or AI integration in applications
+• Agile/Scrum methodology experience
+
+What We Offer:
+• Competitive salary and equity package
+• Comprehensive health, dental, and vision insurance
+• Remote-friendly hybrid work environment
+• Professional development budget ($3000/year)
+• Collaborative and inclusive work culture
+• Stock options and performance bonuses
+• Unlimited PTO policy
+
+About Us:
+InnovateTech Solutions is a fast-growing SaaS company focused on providing AI-powered business intelligence tools. We serve over 5000+ customers globally and are backed by top-tier venture capital firms. Our mission is to democratize advanced analytics and help businesses make data-driven decisions.
